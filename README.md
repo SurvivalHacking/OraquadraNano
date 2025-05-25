@@ -1,4 +1,4 @@
-# OraquadraNano
+# Oraquadra Nano
 Orologio con parole basato su ESP32 comandabile con alexa Versione nano
 Derivato dall'oraquadra 2 e 1 di cui è possibile vedere i relativi video qui: https://youtu.be/DiFU6ITK8QQ e https://youtu.be/s_7UZaXF4Ug
 
