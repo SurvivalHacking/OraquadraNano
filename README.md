@@ -15,7 +15,10 @@ Programmatore WEB (Solo per chrome): https://davidegatti.altervista.org/installa
 ![_IMG_7916](https://github.com/user-attachments/assets/a620e3bc-b90e-4e4e-a4c6-6772a811d07a)
 
 
-Versione 1.1 21/10/2025
+
+
+
+Aggiornamento Versione 1.1 21/10/2025
 
 -Implementata la configurazione WiFi via QR-CODE
 ![IMG_4132](https://github.com/user-attachments/assets/ecbd2388-4914-414c-89e8-c06f51c96f04)
