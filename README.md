@@ -24,6 +24,7 @@ Aggiornamento Versione 1.1 21/10/2025
 ![IMG_4132](https://github.com/user-attachments/assets/ecbd2388-4914-414c-89e8-c06f51c96f04)
 
 -Sistemata la funzionalità di utilizzo con Alexa, il dispositivo viene riconosciuto come lampadina alexa col nome ORAQUADRANANO
+
 I comandi accettati sono:
 
 ACCENDI ORAQUADRANANO
