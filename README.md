@@ -6,6 +6,13 @@ Grazie a Paolo Sambinello e Alessandro Spagnoletti, è nata questa nuova version
 
 Programmatore WEB (Solo per chrome): https://davidegatti.altervista.org/installaEsp32.html?progetto=oraQuadraNano
 
+Materiali:
+🎛️ Modulo ESP32-4848S040: https://s.click.aliexpress.com/e/_omxORtc
+🎛️ Altoparlante 40mm: https://s.click.aliexpress.com/e/_oDrjl2e 
+🎛️ Presa alimentazione USB-C: https://s.click.aliexpress.com/e/_c3mrDKLp 
+🎛️ Filamento grigio glitter: https://amzn.to/4o0EEkQ 
+
+
 ![EPXX-Oraquadranano](https://github.com/user-attachments/assets/8b7764ea-936c-4232-b1fe-c22faec970e7)
 
 ![_cgrIMG_7920](https://github.com/user-attachments/assets/0b7bb67a-15da-4545-9aa5-c99fc3ef48c6)
