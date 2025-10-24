@@ -34,4 +34,9 @@ SPEGNI ORAQUADRANANO
 ORAQUADRANANO COLORE (qui dire il colore che si vuole)
 
 - Migliorata la modalità Snake
+
+
+Aggiornamento Versione 1.2    24/10/2025
+
+- Aggiunte nuove modalità Mario e Tron
  
