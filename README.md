@@ -14,6 +14,8 @@ Materiali:
 
 
 ![EPXX-Oraquadranano](https://github.com/user-attachments/assets/8b7764ea-936c-4232-b1fe-c22faec970e7)
+![EPXX-Oraquadranano Update](https://github.com/user-attachments/assets/8b5a84bc-819c-42b7-bc1b-a5b9b2e56a2f)
+
 
 ![_cgrIMG_7920](https://github.com/user-attachments/assets/0b7bb67a-15da-4545-9aa5-c99fc3ef48c6)
 
