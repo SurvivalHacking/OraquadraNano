@@ -48,4 +48,8 @@ ORAQUADRANANO COLORE (qui dire il colore che si vuole)
 Aggiornamento Versione 1.2    24/10/2025
 
 - Aggiunte nuove modalità Mario e Tron
- 
+
+
+Aggiornamenti file 3D      1/11/2025
+
+- Aggiunte nuove stampe 3D per contenitore a forma Prismatica by Marco Prunca 
