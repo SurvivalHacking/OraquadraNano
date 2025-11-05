@@ -7,6 +7,7 @@ Grazie a Paolo Sambinello e Alessandro Spagnoletti, è nata questa nuova version
 Programmatore WEB (Solo per chrome): https://davidegatti.altervista.org/installaEsp32.html?progetto=oraQuadraNano
 
 Materiali:
+
 🎛️ Modulo ESP32-4848S040: https://s.click.aliexpress.com/e/_omxORtc
 
 🎛️ Altoparlante 40mm: https://s.click.aliexpress.com/e/_oDrjl2e
