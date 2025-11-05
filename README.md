@@ -60,6 +60,9 @@ Aggiornamento Versione V1.3   05/11/2025
  
 - Aggiunte nuova modalità orologio analogico con skin configurabile via WEB. E' necessario inserire una uSD formattata FAT32 per poter inserire le immagini degli orologi. Le immagini da utilizzare devono essere delle JPG da 480x480, poi via web è possibile impostare la lunghezz e il colore delle lancette e molte altre cose.
 
+![Analog](https://github.com/user-attachments/assets/d8d94348-bf10-490d-978c-30dbb1888f8e)
+
+![WEB](https://github.com/user-attachments/assets/0aebc4b7-f245-4d4a-8e22-c6d0a9f2ca3e)
 
 
 Aggiornamenti file 3D      1/11/2025
