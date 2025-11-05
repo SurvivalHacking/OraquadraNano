@@ -8,9 +8,13 @@ Programmatore WEB (Solo per chrome): https://davidegatti.altervista.org/installa
 
 Materiali:
 🎛️ Modulo ESP32-4848S040: https://s.click.aliexpress.com/e/_omxORtc
-🎛️ Altoparlante 40mm: https://s.click.aliexpress.com/e/_oDrjl2e 
+
+🎛️ Altoparlante 40mm: https://s.click.aliexpress.com/e/_oDrjl2e
+
 🎛️ Presa alimentazione USB-C: https://s.click.aliexpress.com/e/_c3mrDKLp 
+
 🎛️ Filamento grigio glitter: https://amzn.to/4o0EEkQ 
+
 
 
 ![EPXX-Oraquadranano](https://github.com/user-attachments/assets/8b7764ea-936c-4232-b1fe-c22faec970e7)
@@ -48,6 +52,14 @@ ORAQUADRANANO COLORE (qui dire il colore che si vuole)
 Aggiornamento Versione 1.2    24/10/2025
 
 - Aggiunte nuove modalità Mario e Tron
+
+
+Aggiornamento Versione V1.3   05/11/2025
+
+- Aggiunta nuove modalità Galaga
+ 
+- Aggiunte nuova modalità orologio analogico con skin configurabile via WEB. E' necessario inserire una uSD formattata FAT32 per poter inserire le immagini degli orologi. Le immagini da utilizzare devono essere delle JPG da 480x480, poi via web è possibile impostare la lunghezz e il colore delle lancette e molte altre cose.
+
 
 
 Aggiornamenti file 3D      1/11/2025
