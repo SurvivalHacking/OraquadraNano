@@ -16,6 +16,7 @@ Materiali:
 
 🎛️ Filamento grigio glitter: https://amzn.to/4o0EEkQ 
 
+ATTENZIONE !!, Oraquadra nanao assorbe circa 200mA e con alcune USB su computer potrebbe non funzionare correttamente. Nel caso alimentarlo con un alimentatore esterno o da una presa USB da computer garantita per 500mA
 
 
 ![EPXX-Oraquadranano](https://github.com/user-attachments/assets/8b7764ea-936c-4232-b1fe-c22faec970e7)
