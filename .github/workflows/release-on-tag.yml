@@ -38,8 +38,8 @@ jobs:
           PREV_TAG="${{ steps.prev_tag.outputs.prev_tag }}"
 
           if [ -z "$PREV_TAG" ]; then
-            echo "No previous tag found. Generating changelog from all commits."
-            CHANGELOG=$(git log --pretty=format:"- %s (%h)" $CURRENT_TAG)
+            echo "No previous tag found. Generating changelog from initial commit to $CURRENT_TAG."
+            CHANGELOG=$(git log --pretty=format:"- %s (%h)" $(git rev-list --max-parents=0 HEAD)..$CURRENT_TAG)
           else
             echo "Generating changelog from $PREV_TAG to $CURRENT_TAG"
             CHANGELOG=$(git log --pretty=format:"- %s (%h)" \
