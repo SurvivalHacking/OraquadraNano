@@ -10,7 +10,7 @@ Materiali:
 
 🎛️ Modulo ESP32-4848S040: https://s.click.aliexpress.com/e/_omxORtc
 
-🎛️ Altoparlante 40mm: https://s.click.aliexpress.com/e/_oDrjl2e
+🎛️ Altoparlante 8R 2W 40mm - MX1.25 connector: https://s.click.aliexpress.com/e/_c2wPOS6T
 
 🎛️ Presa alimentazione USB-C: https://s.click.aliexpress.com/e/_c3mrDKLp 
 
