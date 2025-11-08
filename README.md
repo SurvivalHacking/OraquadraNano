@@ -36,17 +36,13 @@ Programmatore WEB (Solo per chrome): https://davidegatti.altervista.org/installa
 
 * Implementata la configurazione WiFi via QR-CODE
 ![IMG_4132](https://github.com/user-attachments/assets/ecbd2388-4914-414c-89e8-c06f51c96f04)
-
 * Sistemata la funzionalità di utilizzo con Alexa, il dispositivo viene riconosciuto come lampadina alexa col nome ORAQUADRANANO
 
 I comandi accettati sono:
 
 * ACCENDI ORAQUADRANANO
-
 * SPEGNI ORAQUADRANANO
-
 * ORAQUADRANANO COLORE (qui dire il colore che si vuole)
-
 * Migliorata la modalità Snake
 ---
 # Aggiornamento Versione 1.2    24/10/2025
@@ -56,7 +52,6 @@ I comandi accettati sono:
 # Aggiornamento Versione V1.3   05/11/2025
 
 * Aggiunta nuove modalità Galaga
- 
 * Aggiunte nuova modalità orologio analogico con skin configurabile via WEB. E' necessario inserire una uSD formattata FAT32 per poter inserire le immagini degli orologi. Le immagini da utilizzare devono essere delle JPG da 480x480, poi via web è possibile impostare la lunghezz e il colore delle lancette e molte altre cose.
 
 ![Analog](https://github.com/user-attachments/assets/d8d94348-bf10-490d-978c-30dbb1888f8e)
