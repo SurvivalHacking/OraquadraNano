@@ -1,27 +1,30 @@
 # Oraquadra Nano
-Orologio con parole basato su ESP32 comandabile con alexa Versione nano
-Derivato dall'oraquadra 2 e 1 di cui è possibile vedere i relativi video qui: https://youtu.be/DiFU6ITK8QQ e https://youtu.be/s_7UZaXF4Ug
-
-Grazie a Paolo Sambinello e Alessandro Spagnoletti, è nata questa nuova versione in miniatura, facile da realizzare e da programmare, grazie al WEB programmer che vi consentirà di fare tutto senza compilare o installare programmi vari e combattere con le librerie.
-
-Programmatore WEB (Solo per chrome): https://davidegatti.altervista.org/installaEsp32.html?progetto=oraQuadraNano
-
-Materiali:
-
-🎛️ Modulo ESP32-4848S040: https://s.click.aliexpress.com/e/_omxORtc
-
-🎛️ Altoparlante 8R 2W 40mm - MX1.25 connector: https://s.click.aliexpress.com/e/_c2wPOS6T
-
-🎛️ Presa alimentazione USB-C: https://s.click.aliexpress.com/e/_c3mrDKLp 
-
-🎛️ Filamento grigio glitter: https://amzn.to/4o0EEkQ 
-
-ATTENZIONE !!, Oraquadra nanao assorbe circa 200mA e con alcune USB su computer potrebbe non funzionare correttamente. Nel caso alimentarlo con un alimentatore esterno o da una presa USB da computer garantita per 500mA
-
 
 ![EPXX-Oraquadranano](https://github.com/user-attachments/assets/8b7764ea-936c-4232-b1fe-c22faec970e7)
 ![EPXX-Oraquadranano Update](https://github.com/user-attachments/assets/8b5a84bc-819c-42b7-bc1b-a5b9b2e56a2f)
 
+## 📘 Descrizione
+
+Orologio con parole basato su ESP32 comandabile con alexa Versione nano
+Derivato dall'oraquadra 2 e 1 di cui è possibile vedere i relativi video qui: https://youtu.be/DiFU6ITK8QQ e https://youtu.be/s_7UZaXF4Ug
+Grazie a Paolo Sambinello e Alessandro Spagnoletti, è nata questa nuova versione in miniatura, facile da realizzare e da programmare, grazie al WEB programmer che vi consentirà di fare tutto senza compilare o installare programmi vari e combattere con le librerie.
+
+---
+
+## 👨‍💻 Programmazione modulo
+
+Programmatore WEB (Solo per chrome): https://davidegatti.altervista.org/installaEsp32.html?progetto=oraQuadraNano
+
+---
+
+## 🎛️ Materiali
+
+* Modulo ESP32-4848S040: https://s.click.aliexpress.com/e/_omxORtc
+* Altoparlante 8R 2W 40mm - MX1.25 connector: https://s.click.aliexpress.com/e/_c2wPOS6T
+* Presa alimentazione USB-C: https://s.click.aliexpress.com/e/_c3mrDKLp 
+* Filamento grigio glitter: https://amzn.to/4o0EEkQ 
+
+⚠️ ATTENZIONE !!, Oraquadra nanao assorbe circa 200mA e con alcune USB su computer potrebbe non funzionare correttamente. Nel caso alimentarlo con un alimentatore esterno o da una presa USB da computer garantita per 500mA
 
 ![_cgrIMG_7920](https://github.com/user-attachments/assets/0b7bb67a-15da-4545-9aa5-c99fc3ef48c6)
 
@@ -69,4 +72,16 @@ Aggiornamento Versione V1.3   05/11/2025
 
 Aggiornamenti file 3D      1/11/2025
 
-- Aggiunte nuove stampe 3D per contenitore a forma Prismatica by Marco Prunca 
+- Aggiunte nuove stampe 3D per contenitore a forma Prismatica by Marco Prunca
+
+---
+
+## 🧾 Licenza
+
+Questo progetto è distribuito con licenza
+**Creative Commons – Attribuzione – Non Commerciale 4.0 Internazionale (CC BY-NC 4.0)**.
+
+Puoi condividerlo e modificarlo liberamente, **citando l’autore**
+(Davide Gatti / [survivalhacking](https://github.com/survivalhacking)) e **senza scopi commerciali**.
+
+🔗 [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
