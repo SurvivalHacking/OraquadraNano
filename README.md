@@ -29,10 +29,10 @@ Programmatore WEB (Solo per chrome): https://davidegatti.altervista.org/installa
 
 ![_IMG_7916](https://github.com/user-attachments/assets/a620e3bc-b90e-4e4e-a4c6-6772a811d07a)
 ---
-** 📝 Revisioni
+# 📝 Revisioni
 
 
-Aggiornamento Versione 1.1    21/10/2025
+# Aggiornamento Versione 1.1    21/10/2025
 
 * Implementata la configurazione WiFi via QR-CODE
 ![IMG_4132](https://github.com/user-attachments/assets/ecbd2388-4914-414c-89e8-c06f51c96f04)
@@ -49,11 +49,11 @@ I comandi accettati sono:
 
 * Migliorata la modalità Snake
 ---
-Aggiornamento Versione 1.2    24/10/2025
+# Aggiornamento Versione 1.2    24/10/2025
 
 * Aggiunte nuove modalità Mario e Tron
 ---
-Aggiornamento Versione V1.3   05/11/2025
+# Aggiornamento Versione V1.3   05/11/2025
 
 * Aggiunta nuove modalità Galaga
  
@@ -63,7 +63,7 @@ Aggiornamento Versione V1.3   05/11/2025
 
 ![WEB](https://github.com/user-attachments/assets/0aebc4b7-f245-4d4a-8e22-c6d0a9f2ca3e)
 ---
-Aggiornamenti file 3D      1/11/2025
+# Aggiornamenti file 3D      1/11/2025
 
 * Aggiunte nuove stampe 3D per contenitore a forma Prismatica by Marco Prunca
 
