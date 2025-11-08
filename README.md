@@ -32,7 +32,7 @@ Programmatore WEB (Solo per chrome): https://davidegatti.altervista.org/installa
 # 📝 Revisioni
 
 
-# Aggiornamento Versione 1.1    21/10/2025
+# Aggiornamento Versione V1.1    21/10/2025
 
 * Implementata la configurazione WiFi via QR-CODE
 ![IMG_4132](https://github.com/user-attachments/assets/ecbd2388-4914-414c-89e8-c06f51c96f04)
@@ -45,7 +45,7 @@ I comandi accettati sono:
 * ORAQUADRANANO COLORE (qui dire il colore che si vuole)
 * Migliorata la modalità Snake
 ---
-# Aggiornamento Versione 1.2    24/10/2025
+# Aggiornamento Versione V1.2    24/10/2025
 
 * Aggiunte nuove modalità Mario e Tron
 ---
