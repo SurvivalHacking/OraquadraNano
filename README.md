@@ -19,7 +19,8 @@ Programmatore WEB (Solo per chrome): https://davidegatti.altervista.org/installa
 * Modulo ESP32-4848S040: https://s.click.aliexpress.com/e/_omxORtc
 * Altoparlante 8R 2W 40mm - MX1.25 connector: https://s.click.aliexpress.com/e/_c2wPOS6T
 * Presa alimentazione USB-C: https://s.click.aliexpress.com/e/_c3mrDKLp 
-* Filamento grigio glitter: https://amzn.to/4o0EEkQ 
+* Filamento grigio glitter: https://amzn.to/4o0EEkQ
+* Link Affiliati 
 
 ⚠️ ATTENZIONE !!, Oraquadra nanao assorbe circa 200mA e con alcune USB su computer potrebbe non funzionare correttamente. Nel caso alimentarlo con un alimentatore esterno o da una presa USB da computer garantita per 500mA
 
