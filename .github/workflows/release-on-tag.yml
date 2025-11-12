@@ -1,0 +1,70 @@
+name: Create Release on Tag
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Get tag name
+        id: tag
+        run: echo "tag=${GITHUB_REF#refs/tags/}" >> $GITHUB_OUTPUT
+
+      - name: Get previous tag
+        id: prev_tag
+        run: |
+          # Get all tags sorted by creation date (most recent first),
+          # excluding the current tag
+          PREV_TAG=$(git tag --sort=-creatordate | \
+            grep -v "^${{ steps.tag.outputs.tag }}$" | head -n 1)
+          echo "prev_tag=${PREV_TAG}" >> $GITHUB_OUTPUT
+          echo "Previous tag: ${PREV_TAG}"
+
+      - name: Generate changelog
+        id: changelog
+        run: |
+          CURRENT_TAG="${{ steps.tag.outputs.tag }}"
+          PREV_TAG="${{ steps.prev_tag.outputs.prev_tag }}"
+
+          if [ -z "$PREV_TAG" ]; then
+            echo "No previous tag found. Generating changelog from initial commit to $CURRENT_TAG."
+            CHANGELOG=$(git log --pretty=format:"- %s (%h)" $(git rev-list --max-parents=0 HEAD)..$CURRENT_TAG)
+          else
+            echo "Generating changelog from $PREV_TAG to $CURRENT_TAG"
+            CHANGELOG=$(git log --pretty=format:"- %s (%h)" \
+              $PREV_TAG..$CURRENT_TAG)
+          fi
+
+          # Save changelog to file to handle multiline output properly
+          echo "$CHANGELOG" > /tmp/changelog.txt
+
+          # Set output using multiline format
+          {
+            echo 'changelog<<EOF'
+            cat /tmp/changelog.txt
+            echo EOF
+          } >> $GITHUB_OUTPUT
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          tag_name: ${{ steps.tag.outputs.tag }}
+          name: Release ${{ steps.tag.outputs.tag }}
+          body: |
+            ## Changelog
+
+            ${{ steps.changelog.outputs.changelog }}
+          draft: false
+          prerelease: false
