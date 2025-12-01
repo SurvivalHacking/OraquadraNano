@@ -12,7 +12,7 @@ Grazie a Paolo Sambinello e Alessandro Spagnoletti, è nata questa nuova version
 ---
 ## 👨‍💻 Programmazione modulo
 
-Programmatore WEB (Solo per chrome): https://davidegatti.altervista.org/installaEsp32.html?progetto=oraQuadraNano
+Programmatore WEB (Solo per chrome): [https://davidegatti.altervista.org/installaEsp32.html?progetto=oraQuadraNano](https://davidegatti.altervista.org/installaEsp32.php?progetto=oraQuadraNano)
 ---
 ## 🎛️ Materiali
 
