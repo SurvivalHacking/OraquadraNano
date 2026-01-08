@@ -59,6 +59,12 @@ I comandi accettati sono:
 ![Analog](https://github.com/user-attachments/assets/d8d94348-bf10-490d-978c-30dbb1888f8e)
 
 ![WEB](https://github.com/user-attachments/assets/0aebc4b7-f245-4d4a-8e22-c6d0a9f2ca3e)
+
+---
+# Aggiornamento Versione V1.31   08/01/2026
+
+* Sistemato un problema che impediva il correttoaggiornamento dell'ora.
+
 ---
 # Aggiornamenti file 3D      1/11/2025
 
