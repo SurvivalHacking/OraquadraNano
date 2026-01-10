@@ -66,7 +66,7 @@ I comandi accettati sono:
 * Aggiunta modalità Ritorno al futuro 
 * Aggiunto easter egg a sorpresa 
 
---
+---
 # Aggiornamento Versione V1.32   11/01/2026
 
 * Corretto errore che impediva la corretta sincronizzazione dell'orario 
