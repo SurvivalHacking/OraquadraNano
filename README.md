@@ -82,10 +82,12 @@ I comandi accettati sono:
 * Aggiunte nuove stampe 3D per contenitore a forma Prismatica by Marco Prunca
 
 ---
-# Versione Fork V1.4.I2C1  08/01/2026
+# Versione Fork V1.5 di Paolo Sambinello  28/01/2026
 * Versione avanzata by Paolo Sambinello, con moltissime funzioni in più e configurazione WEB avanzata. 
 * Collegando diversi sensori opzionali, svolge numerose funzioni aggiuntive.
-* Per maggiori informazioni:  https://github.com/paolosambi/sambi 
+* Audio per effetti sonori, orario parlante, sveglia
+* Repository con instruzioni:  https://github.com/paolosambi/ORAQUADRA_NANO_1.5/tree/main/oraQuadra_Nano_Ver_1.5
+
 
 ---
 
